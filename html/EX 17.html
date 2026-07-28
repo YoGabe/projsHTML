@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title> EXERCICIO 17 - Pesquisa de perfil</title>
+    </head>
+    <body>
+        <h1> Pesquisa de opinião </h1>
+
+        <form> 
+            <h3>Selecione seu gênero: </h3>
+            <input type="radio" id="masc" name="genero" value="masculino">
+            <label for="masc"> Masculino</label><br>
+            <input type="radio" id="fem" name="genero" value="feminino">
+            <label for="fem"> Feminino </label><br>
+            <input type="radio" name="genero" id="Nesp" value="Naoespeficar">
+            <label for="Nesp"> Prefiro não especificar </label>
+            <h3> Quais são seus hobbies?(Selecione quantos quiser):</h3>
+            <input type="checkbox" value="futebol" id="fut">
+            <label for="fut"> Futebol </label><br>
+            <input type="checkbox" value="musica" id="som">
+            <label for="som"> Tocar um instrumento </label><br>
+            <input type="checkbox" value="pintar" id="pin">
+            <label for="pin"> Pintar </label><br>
+            <input type="checkbox" value="cinema" id="mov">
+            <label for="mov"> Ir ao cinema </label><br>
+            <input type="checkbox" value="jogar" id="game">
+            <label for="game"> Jogar videogame </label><br>
+            <input type="checkbox" name="amigos" id="fren">
+            <label for="fren"> Sair com os amigos </label><br><br>
+
+            <button type="submit" onclick="alert('Respostar enviadas com sucesso!')"> Enviar respostas </button>
+        </form>
+    </body>
+</html>
