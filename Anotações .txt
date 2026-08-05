@@ -1,0 +1,35 @@
+﻿Dados são conjuntos de informações 
+O que é um banco de dados?
+Um banco de dados é uma coleção organizada de informações estruturadas, armazenadas eletronicamente em um sistema de computador
+Para entender a necessidade de um banco de dados, imagine a evolução da gestão de informações em um negócio:
+Fase 1: Caderno de papel, fácil de anotar no início, mas impossível de filtrar rapidamente, buscar dados específicos em grande volume ou fazer cópias de segurança confiáveis.
+Fase 2: Planilhas eletrônicas, ótimas para cálculos e tabelas simples, mas apresentam problemas sérios quando múltiplos usuários tentam alterar dados simultaneamente, resultando em duplicação e falta de integridade.
+Fase 3: Banco de dados, sistema projetado para permitir acesso simultâneo de milhares de usuários, garantindo integridade, velocidade na busca, controle de acessos e recuperação de falhas
+Scrum
+É um framework de gerenciamento de projetos focado em entregas frequentes e melhoria contínua. O trabalho é dividido em ciclos curtos e o time possui papéis bem definidos:
+Product owner: define o que deve ser feito e prioriza as funcionalidades.
+Scrum master: facilita o processo e remove impedimentos
+Time de desenvolvimento: constrói a solução de forma multidisciplinar
+Sprint
+É o ciclo de trabalho do Scrum, com duração fixa (geralmente de 2 a 4 semanas)
+Começa com o Sprint Planning (planejamento do que será feito)
+Tem acompanhamento diário no Daily Scrum (reunião rápida de 15 minutos)
+Termina com a Sprint Review (demonstração do produto pronto) e a Retrospectiva (análise do que pode melhorar no processo)
+Kanban
+É um método visual focado em gerenciar o fluxo de trabalho contínuo, sem necessariamente utilizar ciclos fixos
+Quadro visual: organiza as tarefas em colunas (Ex.: A fazer, em andamento, concluído)
+Limite de WIP (Work In Progress): Restringe a quantidade de tarefas simultâneas em cada etapa para evitar gargalos
+Foco: Concluir uma tarefa antes de iniciar outra ("puxar" o trabalho em vez de acumular)
+
+
+hr = Criar uma linha # = Sublinhar o texto 
+
+
+A metodologia Design Sprint( criada pelo Google Ventures) é um processo de 5 dias para responder a grandes questões de negócios através de design, prototipagem, e testes com usuários reais, sem precisar construir e lançar um produto completo.
+
+
+Também é comum chamar de Sprint o ciclo de trabalho do Scrum (geralmente de 2 a 4 semanas), mas o termo como metodologia própria refere-se ao Design Sprint do Google.
+
+
+O objetivo: 
+Validar uma ideia ou resolver um problema crítico em 1 semana em vez de gastar meses desenvolvendo algo que talvez ninguém queira
