@@ -33,3 +33,26 @@ Também é comum chamar de Sprint o ciclo de trabalho do Scrum (geralmente de 2 
 
 O objetivo: 
 Validar uma ideia ou resolver um problema crítico em 1 semana em vez de gastar meses desenvolvendo algo que talvez ninguém queira
+
+(reset global):
+margin 0: remove as margens externa padrão de todos os elementos
+
+padding 0: remove os espaçamentos internos padrão de todos os elementos
+
+box-sizing: border-box: faz com que a largura e altura do elemento incluam o padding e a borda, sem aumentar o tamanho final da caixa.
+
+body(corpo da pagina):
+
+font-family: define a familia de fontes do texto
+
+background-color: define a cor do fundo da tela(cinza-claro)
+
+color: define a cor do texto
+
+line-height: define o espaçamento entre as linhas de texto
+
+padding: 20px: adiciona uma margem interna de 20 pixels nas bordas da página
+
+hr (linha horizontal):
+
+display: none: esconde as linhas divisórias do HTML
