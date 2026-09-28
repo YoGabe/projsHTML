@@ -1,0 +1,35 @@
+
+body{
+align-items: center;
+display: flex;
+justify-content: center;
+height: 100vh;
+font-family: Arial, Helvetica, sans-serif;
+background: antiquewhite;  
+}
+
+form{
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+}
+input, button{
+padding: 10px;
+font-size: 14px;
+}
+button{
+    background-color: blue;
+    color: antiquewhite;
+    border: none;
+    cursor: pointer;
+}
+
+.card-home{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 5px;
+}
